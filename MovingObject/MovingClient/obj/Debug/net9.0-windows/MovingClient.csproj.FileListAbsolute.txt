@@ -1,0 +1,14 @@
+C:\Users\MSI-PC\Downloads\NetworkProgramming-master\NetworkProgramming-master\MovingObject\MovingClient\bin\Debug\net9.0-windows\MovingClient.exe
+C:\Users\MSI-PC\Downloads\NetworkProgramming-master\NetworkProgramming-master\MovingObject\MovingClient\bin\Debug\net9.0-windows\MovingClient.deps.json
+C:\Users\MSI-PC\Downloads\NetworkProgramming-master\NetworkProgramming-master\MovingObject\MovingClient\bin\Debug\net9.0-windows\MovingClient.runtimeconfig.json
+C:\Users\MSI-PC\Downloads\NetworkProgramming-master\NetworkProgramming-master\MovingObject\MovingClient\bin\Debug\net9.0-windows\MovingClient.dll
+C:\Users\MSI-PC\Downloads\NetworkProgramming-master\NetworkProgramming-master\MovingObject\MovingClient\bin\Debug\net9.0-windows\MovingClient.pdb
+C:\Users\MSI-PC\Downloads\NetworkProgramming-master\NetworkProgramming-master\MovingObject\MovingClient\obj\Debug\net9.0-windows\MovingClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI-PC\Downloads\NetworkProgramming-master\NetworkProgramming-master\MovingObject\MovingClient\obj\Debug\net9.0-windows\MovingClient.AssemblyInfoInputs.cache
+C:\Users\MSI-PC\Downloads\NetworkProgramming-master\NetworkProgramming-master\MovingObject\MovingClient\obj\Debug\net9.0-windows\MovingClient.AssemblyInfo.cs
+C:\Users\MSI-PC\Downloads\NetworkProgramming-master\NetworkProgramming-master\MovingObject\MovingClient\obj\Debug\net9.0-windows\MovingClient.csproj.CoreCompileInputs.cache
+C:\Users\MSI-PC\Downloads\NetworkProgramming-master\NetworkProgramming-master\MovingObject\MovingClient\obj\Debug\net9.0-windows\MovingClient.dll
+C:\Users\MSI-PC\Downloads\NetworkProgramming-master\NetworkProgramming-master\MovingObject\MovingClient\obj\Debug\net9.0-windows\refint\MovingClient.dll
+C:\Users\MSI-PC\Downloads\NetworkProgramming-master\NetworkProgramming-master\MovingObject\MovingClient\obj\Debug\net9.0-windows\MovingClient.pdb
+C:\Users\MSI-PC\Downloads\NetworkProgramming-master\NetworkProgramming-master\MovingObject\MovingClient\obj\Debug\net9.0-windows\MovingClient.genruntimeconfig.cache
+C:\Users\MSI-PC\Downloads\NetworkProgramming-master\NetworkProgramming-master\MovingObject\MovingClient\obj\Debug\net9.0-windows\ref\MovingClient.dll
